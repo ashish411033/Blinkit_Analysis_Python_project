@@ -42,3 +42,15 @@ The project performs detailed **Exploratory Data Analysis (EDA)** to understand 
 - matplotlib  
 - seaborn  
 - numpy
+
+![Dashboard Screenshot](https://github.com/ashish411033/Blinkit_Analysis_Python_project/blob/main/Total%20Sales%20By%20FAT(python).PNG)
+![Dashboard Screenshot](https://github.com/ashish411033/Blinkit_Analysis_Python_project/blob/main/Total%20sales%20by%20item%20type(python).PNG)
+![Dashboard Screenshot](https://github.com/ashish411033/Blinkit_Analysis_Python_project/blob/main/bar%20chart.PNG)
+![Dashboard Screenshot](https://github.com/ashish411033/Blinkit_Analysis_Python_project/blob/main/bars%20chart.PNG)
+![Dashboard Screenshot](https://github.com/ashish411033/Blinkit_Analysis_Python_project/blob/main/line%20chart.PNG)
+![Dashboard Screenshot](https://github.com/ashish411033/Blinkit_Analysis_Python_project/blob/main/pie%20chart.PNG)
+
+
+
+
+
